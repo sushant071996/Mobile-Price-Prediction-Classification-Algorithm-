@@ -121,6 +121,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Mobi
 ## Decision Tree Accuarcy:
     
    Train = 76.9375
+   
    Test = 73.5
   
 8)Random Forest Analysis:
@@ -138,6 +139,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Mobi
 ## Random Forest Accuarcy:
     
    Train = 82
+   
    Test = 77
 
 11)KNN Analysis
@@ -155,6 +157,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Mobi
 ## KNN Accuarcy:
     
    Train = 91
+   
    Test = 86
    
 ## Conclusing Statement
